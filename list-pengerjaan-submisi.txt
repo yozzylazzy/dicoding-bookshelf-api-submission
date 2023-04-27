@@ -1,0 +1,3 @@
+API Bookshelf -> Get, Add, Get Specified, Update, Delete
+Pengujian Postman --> Complete [Mandatory] case API
+Optional --> Eslint Standard Style, [Opsional] Case API Query Parameters All (name,reading,finished)
